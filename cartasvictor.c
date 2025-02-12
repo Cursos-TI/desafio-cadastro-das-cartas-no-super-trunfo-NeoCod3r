@@ -16,7 +16,7 @@ int codigo_cidade, populacao, pontos_turisticos;
     scanf("%d", &codigo_cidade);
 
     printf("Digite o Nome da Cidade (sem espaços): ");
-    scanf("%s", nome_cidade);  // Lê apenas uma palavra
+    scanf("%s", nome_cidade); 
 
     printf("Digite a Populacao: ");
     scanf("%d", &populacao);
